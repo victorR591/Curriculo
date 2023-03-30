@@ -1,0 +1,33 @@
+body{
+    background-color: #f7f7f7;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.barra {
+    border-left: 3px solid rgb(0, 0, 0);
+    height: 875px;
+    position: absolute;
+    left: 50%;
+    margin-left: 0px;
+    top: 2%; 
+    bottom: 5%;
+    }
+
+h1{
+    font-size: 350%;
+}
+
+
+.esquerda{
+    position:  absolute;
+    padding: 75px ;
+    bottom: -30%;
+    
+
+}
+.direita{
+    position:  absolute;
+    left: 55%;
+
+}
